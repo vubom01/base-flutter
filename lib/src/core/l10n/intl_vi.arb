@@ -1,0 +1,12 @@
+{
+  "@@locale": "vi",
+  "theme": "Giao diện",
+  "language": "Ngôn ngữ",
+  "signIn": "Đăng nhập",
+  "signUp": "Đăng ký",
+  "home": "Trang chủ",
+  "profile": "Hồ sơ",
+  "logout": "Đăng xuất",
+  "plan": "Kế hoạch",
+  "wishList": "Mong muốn"
+}

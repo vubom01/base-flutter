@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - "package/**"
+    - "lib/common/generated/**"
+    - "**/*.g.dart"
+  errors:
+    invalid_annotation_target: ignore
+    depend_on_referenced_packages: ignore
+
+linter:
+  rules:

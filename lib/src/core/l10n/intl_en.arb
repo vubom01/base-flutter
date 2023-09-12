@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "theme": "Theme",
+  "language": "Language",
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "home": "Home",
+  "profile": "Profile",
+  "logout": "Logout",
+  "plan": "Plan",
+  "wishList": "Wish List"
+}
